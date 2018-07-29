@@ -1,5 +1,13 @@
 # PHARM233 - Neuropharmacology
-Slides, lecture notes, and practice questions for PHARM 233 - Neuropharmacology.
 
-Lecture 05-06 - Neurochemistry I (slides, notes)
-Lecture 07-08 - Neurochemistry II (slides, notes)
+2018 PHARM 233 syllabus - pdf
+
+Lecture 1-2 (date) - Neurochemistry I  
+slides (preview, ppt, pdf)  
+lecture notes (pdf, docx)  
+practice questions (pdf, docx)
+
+Lecture 3-4 (date) - Neurochemistry II  
+slides (preview, ppt, pdf)  
+lecture notes (pdf, docx)  
+practice questions (pdf, docx)
